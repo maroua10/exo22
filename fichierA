@@ -1,3 +1,7 @@
-mmmmmmmmmmmmmmmmmmmmmmmmmmon est dans le 2ème exercice du Tp git , question 5, on fait une modif locale
+<<<<<<< HEAD
+mmmmmmmmmmmmmmmmmmmmmmmmmmon est dans le 2ème exercice du Tp git , question 5
+=======
+mmmmmmmmmmmmmmmmmmmmmmmmmmon est dans le 2ème exercice du Tp git , question 5, modifié sur github
+>>>>>>> 300a92d5355cbc2dd31a54d0a878e57a4cc8e520
 on est en train de modifier fichier A sur le depot local 
 apres on verra les autres demarches 
